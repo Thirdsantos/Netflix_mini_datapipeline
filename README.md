@@ -2,16 +2,7 @@
 
 This is a Python script that cleans and organizes the Netflix Movies and TV Shows dataset. It separates movies and TV shows, handles missing values, formats columns, and saves cleaned CSV files into an output directory for further analysis.
 
-## Project Structure
 
-netflix/
-├── raw/               # Contains the original CSV file
-│   └── netflix_titles.csv
-├── output/            # Output folder for cleaned CSV files
-│   ├── movies_clean.csv
-│   └── series_clean.csv
-└── script/            # Contains the Python script
-    └── clean_data.py
 
 ## Features
 
